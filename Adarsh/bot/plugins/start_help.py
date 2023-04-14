@@ -247,6 +247,6 @@ async def about_handler(bot, message):
                 [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Mc_Film_Mainchannel"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/Mc_groupfilms_2")],
                 [InlineKeyboardButton("💌𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💌", url="https://t.me/Mc_Group_Channel")]
             ] 
-            ]
+            
         )
     )
