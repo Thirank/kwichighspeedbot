@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Mc_Film_Mainchannel")],
-                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/MoviesNowV2"), InlineKeyboardButton("💎 New 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/MoviesNowOTT2")],
-                    [InlineKeyboardButton("💌 Request Group 💌", url="https://t.me/Mc_Group_Films")]
+                    [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/Mc_Film_Update"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Mc_Film_Mainchannel")],
+                    [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/Mc_Groupfilms_2"), InlineKeyboardButton("💎 𝐍ᴇᴡ 𝐑ᴇʟᴇᴀ𝐬ᴇ 💎", url="https://t.me/+DDHn2d-UMAtkYWRl")],
+                    [InlineKeyboardButton("💌 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💌", url="https://t.me/Mc_Group_Channel")]
                 ]
             ),
             
