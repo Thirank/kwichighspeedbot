@@ -180,7 +180,7 @@ async def help_handler(bot, message):
             [
                 [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/Mc_Films_Update"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Mc_Film_Mainchannel")],
                 [InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/Mc_Groupfilms_2"), InlineKeyboardButton("💎𝐍ᴇᴡ 𝐑ᴇʟᴇᴀ𝐬ᴇ 💎", url="https://t.me/+DDHn2d-UMAtkYWRl")],
-                [InlineKeyboardButton("💌 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💌", url="https://t.me/Mc_Group_Channel)]
+                [InlineKeyboardButton("💌 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💌", url="https://t.me/Mc_Group_Channel")]
             ]
         )
     )
